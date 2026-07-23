@@ -185,8 +185,7 @@ section{padding:72px 0}
   .mega-cols{grid-template-columns:repeat(2,1fr)}
   .ham{display:flex}
   .hdr{position:relative}
-  .topbar-in{justify-content:center;text-align:center}
-  .tb-left{justify-content:center}
+  .topbar{display:none}
   section{padding:54px 0}
   .hero{padding:48px 0 44px}
   .svc-grid{grid-template-columns:1fr}
